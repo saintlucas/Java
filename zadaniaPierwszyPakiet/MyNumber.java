@@ -1,6 +1,7 @@
 package zadaniaPierwszyPakiet;
 
 public class MyNumber {
+
     private double value;
 
     public MyNumber(double value) {

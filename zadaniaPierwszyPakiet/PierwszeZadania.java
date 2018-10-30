@@ -17,7 +17,7 @@ public class PierwszeZadania {
         System.out.println(liczba2 / liczba1);
 
         int i = 15;
-
+        /**
         if (i % 2 == 0) {
             System.out.println("Liczba jest parzysta");
         } else {
@@ -29,7 +29,7 @@ public class PierwszeZadania {
         } else {
             System.out.println("False");
         }
-
+        **/
 
         //        public int suma(int a, int b){
 //            return a + b;  //ta metoda zwraca sumę dwóch parametrów
@@ -42,7 +42,7 @@ public class PierwszeZadania {
 //        public int suma(int a, int b){
 //            return a * b;  //ta metoda zwraca iloczyn dwóch parametrów
 //
-
+        /**
         private static boolean canConstructTriangle(double number1, double number2, double number3) {
 
 
@@ -63,6 +63,8 @@ public class PierwszeZadania {
 
             return side1 * side1 + side2 * side2 == longest * longest;
         }
+         **/
     }
+
 
 }
